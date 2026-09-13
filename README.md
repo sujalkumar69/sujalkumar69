@@ -1,89 +1,81 @@
-<h1 align="center">Hi 👋, I'm <a href="#">Sujal Kumar</a></h1>
-<h3 align="center">Full Stack Developer | BCA @ BIT Mesra (Lalpur Campus)</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Node.js+%2B+React);Backend-heavy+Engineer+%7C+Team+Lead;Curious+about+DSA+%26+Problem+Solving" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:161616,100:000000&height=220&section=header&text=SUJAL%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=THE%20DEVELOPER%20ARC&descAlignY=60&descSize=20&animation=fadeIn"/>
 
----
+# ⚔️ SUJAL KUMAR
 
-### 🚀 About Me
+### `Software Developer in Progress`
 
-- 🎓 BCA (5th Semester), **BIT Mesra, Lalpur Campus**
-- 💻 Full Stack Developer — **Node.js/Express, React, MongoDB, SQL**
-- 🧠 Curious about **DSA** and enjoy solving problems
-- 🧩 Sole Backend Developer & Team Lead — **EcoTrack** (Infosys Springboard Internship)
-- 🏆 Hackathons: Flipkart Gridlock 2.0 (ML/AI), HackerRank Orchestrate
-- 🌱 Open Source: **GSSoC** contributor
+**BCA @ BIT Mesra**  
+**Python • Java • JavaScript • DSA • Full Stack • Open Source**
 
----
+<br>
 
-### 🛠️ Tech Stack
+> **「 The strongest code isn't written on the first attempt. 」**
+>
+> *It is forged through failure, debugging, rebuilding, and refusing to quit.*
 
-**Languages**
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujalkumar69)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-kumar-071506324/)
+[![GSSoC](https://img.shields.io/badge/GSSoC_2026-Contributor-050505?style=for-the-badge&logo=github&logoColor=white)](https://gssoc.girlscript.tech/)
 
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### ⚡ Ongoing Ventures
+# 🗡️ THE PROLOGUE
 
-- 🌍 **[EcoTrack](#)** — Carbon Footprint & Sustainability Management Platform. Built as sole backend developer & team lead (Node.js, Express, MongoDB, React/Vite, Google OAuth).
-- 💰 **[Expense Tracker](#)** — Full-stack expense management app with JWT refresh token rotation, UPI QR generation, group expenses via invite codes, and rate limiting (Node.js, Oracle DB, React).
-- 📦 **[Vendor / PO Management System](#)** — Vendor & Purchase Order management system mapped to SAP MM / Procure-to-Pay concepts. *(in progress)*
-- 🔐 **[SecretScan CLI](#)** — Pre-commit CLI tool that scans for secrets/`.env` leaks before they get committed.
+Every developer has a starting point.
+
+Mine started with curiosity.
+
+Then came the bugs.
+
+Then came the questions.
+
+Then came the realization that there is always another level.
+
+I'm **Sujal**, a BCA student at **BIT Mesra**, building my way toward becoming a strong software engineer.
+
+I work with **Python and Java**, while building full-stack development skills through **JavaScript, React, Node.js, Express and databases**.
+
+I'm interested in the part of software development where things stop being tutorials and start becoming **real systems**:
+
+`Architecture` → `APIs` → `Authentication` → `Databases` → `Security` → `Debugging` → `Deployment`
+
+I'm also sharpening my problem-solving through **DSA** and getting my hands dirty with **open source**.
+
+I'm not here to pretend I've mastered everything.
+
+### I'm here to level up until I do.
 
 ---
 
-### 🎮 Beyond the Code
+# 📖 THE GRIMOIRE
 
-- 🎱 8-Ball Pool player
-- 🌱 Active open-source contributor (GSSoC)
-- 🤝 Volunteer for community initiatives
-- 📬 Open to collaboration on interesting full-stack / security projects
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujalkumar&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-</p>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                      SUJAL.exe                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  CLASS        : SOFTWARE DEVELOPER                       ║
+║  ORIGIN       : BIT MESRA                                ║
+║  DEGREE       : BCA                                      ║
+║                                                          ║
+║  MAIN WEAPONS : Python • Java • JavaScript               ║
+║                                                          ║
+║  SPECIALTIES  :                                          ║
+║                ├── Problem Solving                       ║
+║                ├── DSA                                   ║
+║                ├── Full-Stack Development                 ║
+║                ├── Backend Engineering                    ║
+║                ├── REST APIs                              ║
+║                └── Database Systems                       ║
+║                                                          ║
+║  CURRENT ARC  : BUILD • BREAK • DEBUG • REPEAT            ║
+║                                                          ║
+║  STATUS       : █████████████████░░░  EVOLVING           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
